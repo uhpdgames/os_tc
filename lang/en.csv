@@ -1,0 +1,407 @@
+﻿Tất cả;categories.ALL
+Thực phẩm;categories.FOOD
+Kẹo;categories.CAKE
+Nước uống;categories.DRINK
+Chìa khóa;categories.KEY
+Phổ biến;categories.COMMON
+Quý hiếm;categories.RAREITEM
+Dược phẩm;categories.MEDICAMENT
+Vật liệu;categories.MATERIAL
+Vũ khí;categories.WEAPON
+Giáp;categories.ARMOR
+Nguyên liệu;categories.RawFoods
+Cấp cứu;categories.Health
+Điện tử;categories.Electronic
+Món tráng miệng;food.f001
+\c[17]Nhận được số điểm thưởng \V[3] tăng tiền nhận được \i[2] \V[6] $;waiter.scores
+Sự kiện thi đấu năm nay quá khó, \ntớ không muốn thua cuộc.;NPC.1
+Là con gái tham gia cuộc thi, \nvì vậy tớ đang cô đơn.;NPC.2
+Ngôi đền này đã tồn tại từ rất lâu.;NPC.3
+tớ cần vào đền thờ, làm ơn!;NPC.4
+Phụ;quest.side
+Đã hoàn thành;quest.completed
+Đã thất bai;quest.failed
+Tiêu đề nhiệm vụ;quest.header
+Tiến trình nhiệm vụ;quest.step
+Phần thưởng;quest.rewards
+Theo dỏi;quest.track
+Bỏ theo dỏi;quest.untrack
+Từ bỏ nhiệm vụ;quest.abandon
+Chấp nhận;quest.accept
+Từ chối;quest.decline
+Nhiệm vụ đã hoàn thành;quest.complete
+Bỏ qua;quest.cancel
+Nhiệm vụ;quest.name
+Ai có thể chỉ dẫn cho tớ?;quest_detail.name1
+Tìm kiếm ai đó, có thể chỉ điểm đến khu vực DU BI.;quest_detail.des1
+Binh đoàn hỗ trợ thí sinh,;quest_detail.obj1_1
+chắc chắn biết vị trí của;quest_detail.obj1_1a
+Quá Trình cuộc tuyển chọn.;quest_detail.obj1_1b
+Hướng dẫn viên TUYEN biết vị trí;quest_detail.obj1_2
+nhưng cô ấy không thể ,;quest_detail.obj1_2a
+điều khiển xe máy.;quest_detail.obj1_2b
+Đãm bảo tớ phải có $ 250.00;quest_detail.name2
+Hôm nay là \nNgày cuối cùng của cuộc tuyển chọn.;intro.1
+Số phận của ứng viên sẽ thay đổi phù thuộc vào thử thách cuối cùng này.;intro.3
+Cơ hội để có cuộc sống tốt đẹp, hạnh phúc chỉ dành cho người xứng đáng nhất,;intro.4
+Ứng viên phải đạt tối thiểu 25 điểm trong 3 lần thử thách.;intro.5
+tôi đoán, tôi đã có 20 điểm tích lũy.;intro.6
+Thử thách cuối cùng lần này chỉ cần đạt thêm 5 điểm, \ntôi sẽ có cơ hội rời khỏi nơi khốn khó ở nông thôn, \nthay đổi số phận nghèo khó.;intro.7
+tôi sẽ xếp loại vào nhóm người tài giỏi nhất của đất nước.;intro.8
+Nhưng,;intro.9
+Không ổn rồi!!;intro.10
+Người hướng dẫn của tôi, đâu rồi nhỉ ?;intro.11
+tôi không thể vượt qua thử thách chỉ bởi một mình.;intro.12
+MI, cậu đang ở đâu?;intro.13
+Bạn đã tham gia TEAM Sự Nghiệp, PHI đã tham gia và nhóm của bạn;MSG.MSG_1
+Bạn đã tham gia TEAM Quá Trình, PHi trở thành kẻ thù của bạn.;MSG.MSG_2
+Cuộc tuyển chọn lần thứ 99 đang diễn ra.;MSG.MSG_3
+Xin lỗi, tớ đang bận.;TUAN.tut1
+TUAN: Cậu muốn đến đó để làm gì ?;TUAN.TAP_1_20
+TUAN: Ồ! thế à. Cần giúp đỡ gì nào !;TUAN.TAP_1_21
+TUAN: Này, cậu Ứng viên. \nPhải nói rõ khu vực nào chứ, \nQuá Trình của năm nay tăng số lượng ứng viên \nrất đông nên có nhiều khu vực.;TUAN.TAP_1_22
+TUAN: Thật không may, \ntớ không biết khu vực đó.;TUAN.TAP_1_23
+TUAN: À mà này, TUYEN biết vị trí khu vực đấy \nNhưng cô ấy không biết điều khiển xe máy.;TUAN.TAP_1_24
+TUAN: Đâu có được, cùng nhau ...đến đó,. \nNhư thế là sai luật. Binh đoàn màu Xanh sẽ phạt chúng ta. \nNếu điều đó xảy ra, cậu cũng sẽ mất thời gian chờ đợi. \nThậm chí là cậu không thể đến khu vực dự bị.;TUAN.TAP_1_25
+TUAN: Được thôi, nhưng hãy thông báo cho cô ấy biết.;TUAN.TAP_1_26
+TUAN: Này cậu, có nhiệm vụ cho chúng ta.;TUAN.TAP_1_30
+TUAN: Hãy làm hoa tiêu cho ứng viên này,;TUAN.TAP_1_31
+TUAN: Nhưng chúng ta cùng nhau đi, \ntớ biết cậu không thể điều khiển xe máy.;TUAN.TAP_1_32
+TUAN: Nhiệm vụ của bình đoàn chúng ta \nlà phải hỗ trợ cho ứng viên cơ mà, \nphải hoàn thành nhiệm chứ.;TUAN.TAP_1_33
+TUAN: Vì Quá Trình, \nvì lý tưởng của cuộc tuyển chọn này. \nChúng ta nên hoàn thành nhiệm vụ.;TUAN.TAP_1_34
+TUAN: Chúng tớ đã hoàn thành nhiệm vụ, \nchúc mai mắn cậu ứng viên.;TUAN.TAP_1_40
+TUAN: Cậu có thể kiếm kinh phí ở trung tâm thành phố. \nTrước khi hai tháng sau có kết quả của Quá Trình.;TUAN.TAP_1_41
+TUAN: Càng nhiều càng tốt chứ!;TUAN.TAP_1_42
+TUAN: Đúng rồi, nếu cậu rớt Quá Trình thì \ncậu không cần phải nguyên góp nữa đâu.;TUAN.TAP_1_44
+TUAN: Phần hỗ trợ cho ứng viên \ngần như hoàn tất, tạm biệt.;TUAN.TAP_1_46
+TUYEN: Gì thế!;TUYEN.TAP_1_30
+TUYEN: Được thôi.;TUYEN.TAP_1_31
+TUYEN: Ồ ..Khó thật đấy, tớ xin rút lui. \nKhông muốn mạo hiểm.;TUYEN.TAP_1_32
+TUYEN: ...Thật là một nhiệm vụ đầy khó khăn.;TUYEN.TAP_1_34
+TUYEN: Này cậu ứng viên, nên nhớ. \nNếu đỗ vào cuộc tuyển chọn, \nphải nộp kinh phí để đóng góp \nvào Quá Trình thêm lớn mạnh.;TUYEN.TAP_1_40
+TUYEN: Đúng rồi, nếu cậu không đậu. \nSố kinh phí đấy vẫn thuộc về của cậu.;TUYEN.TAP_1_41
+TUYEN: Đùa đấy à, Phí hằng năm để tổ chức trình \nQuá Trình là hơn $69,999,999.00 \nNên mỗi ứng viên phải đóng góp $250.00. \nNếu ứng viên không vượt qua được \nthử thách thì MIễn phí.;TUYEN.TAP_1_43
+TUYEN: cậu có muốn đi cùng tớ không?;TUYEN.TAP_1_44
+TUYEN: Tất nhiên, tớ đã có một trải nghiệm thật tuyệt vời.;TUYEN.TAP_1_45
+TUYEN: tớ biết cậu cần một công việc, \ncó thể là một nơi tốt để kiếm tiền.;TUYEN.TAP_1_46
+TUYEN: Cậu ở quê hương nào mới lên ?;TUYEN.TAP_1_48
+TUYEN: Đồng ý! Cậu hãy ra con đường lớn \ncó bảng xe buýt chạm vào nó để \nđược di chuyển MIễn phí nhé, tạm biệt.;TUYEN.TAP_1_49
+TUYEN:Vẫn chưa đủ tiền \nđể đóng góp vào Quá Trình à.;TUYEN.TAP2_10
+TUYEN: Có công việc này có thể \ngiúp cậu có đủ tiền ngay lập tức, \nNhưng sẽ có khó khăn.;TUYEN.TAP2_11
+TUYEN: Cậu sẽ trở thành ông chủ có xe, \nnhưng cậu phải đi đúng tuyến \nđường đi của khách hàng.;TUYEN.TAP2_12
+TUYEN: Chính xác!;TUYEN.TAP2_13
+TUYEN: Không thành vấn đề, \nNhưng hãy cẩn thận. \nTạm biệt, và bảo trọng.;TUYEN.TAP2_14
+TUYEN: Nhấn phím M trên bàn phím, \nNếu cậu không biết địa chỉ.;TUYEN.TAP2_15
+Anh đã tham gia Quá Trình chưa ?;NHUNG.NHUNG_1
+Quá tốt, hãy cố gắng học rồi sẽ có tất cả.;NHUNG.NHUNG_2
+NHUNG: cậu muốn tham gia Quá Trình để làm gì ?;NHUNG.DANG_T1
+NHUNG: À, à..ừ. Thế cậu có biết phím ấn \nthường sử dụng trong các trò chơi hay không ?;NHUNG.DANG_T2
+NHUNG: Tất nhiên..;NHUNG.DANG_T3
+tớ chắc chắn sẽ đậu, \nNên tớ sẽ bắt đầu kiếm \nkinh phí để nguyên góp cho Quá Trình.;DANG.24
+Phải có đủ $250.00 trước hai \ntháng phải không, được thôi.;DANG.25
+DANG: HẮN CHÍNH LÀ NGƯỜI CỦA SỰ NGHIỆP, ĐÓ LÀ KẺ THÙ CỦA CHÚNG TA.;DANG.DANG_1
+Chào em, Nhung.;DANG.DANG_2
+Đúng vậy, Nhưng chỉ có \nmột thứ mà anh không bao giờ có được...;DANG.DANG_3
+ừ!;DANG.tut1
+DANG: Chào cậu, cậu có đăng ký tham gia \nvào Quá Trình hay không ?;DANG.NHUNG_T1
+DANG: Tớ muốn có công thức tạo ra một trò chơi, \nNên tớ sẽ tham gia vào Quá Trình.;DANG.NHUNG_T2
+DANG: Khu vực tuyển chọn ở rất xa, tớ phải chờ MI. \nBởi vì MI có phương tiện để tớ được đi cùng.;DANG.TAP_1_2
+DANG: Chắc chắn, tớ vẫn đang chờ MI, \nBởi vì ở nông thôn đến trung tâm không \nthể biết vị trí chính xác của khu vực.;DANG.TAP_1_3
+DANG: Không cần thiết đâu, tớ sẽ chờ MI đến.;DANG.TAP_1_4
+DANG: Có lẽ, tớ bị loại cũng không sao đâu. \nVì tớ đã rất quen với cuộc sống nghèo đói, khó khăn.;DANG.TAP_1_5
+DANG: Bởi vì tớ ham vui, nên đua đòi được \nđến trung tâm để tham gia cuộc tuyển chọn, \nđể cảm nhận một sự kiện quan trọng nhất của quốc gia.;DANG.TAP_1_6
+DANG: À có sự nhầm lẫn, \nLà một sự kiện quan trọng nhất của con người.;DANG.TAP_1_7
+DANG: ...;DANG.TAP_1_8
+DANG: (Hỏi mãi, mệt quá im luôn. Không thèm trả lời);DANG.TAP_1_9
+DANG: Hỏi lại, nói điều này ...Mệt mỏi!;DANG.TAP_1_10
+DANG: Nico hỏi lại lần nữa hả, tớ đã nói là đang đợi em gái đến.;DANG.TAP_1_11
+DANG: Cuộc thi là vớ vẩn;DANG.TAP_1_13
+DANG: Vâng, tớ nói rồi. Tớ đang chờ MI.;DANG.TAP_1_15
+DANG: Bởi vì, ngày hôm qua tớ đã vượt qua hai lần thử thách. tớ cảm nhận thử thách quá bình thường,\nrất đơn giản. tớ cứ tưởng tượng chuyện phải vượt qua Quá Trình là điều gì đó rất ghê rợn,\nmà mọi người đều nói:;DANG.TAP_1_14
+DANG: Được thôi, vậy thì tớ sẽ không chờ MI đến nữa.;DANG.TAP_1_12
+DANG: Tại sao NICO lại hỏi những câu hỏi mà đã biết đáp án là tớ vẫn sẽ chờ em gái đến.;DANG.TAP_1_16
+DANG: Không cần thiết đâu, ...tớ tin chắc chắn là em gái sẽ đến.;DANG.TAP_1_17
+Trả lời khôn, ngoan.;DANG.TAP_1_a
+Tiếp tục chờ em gái đến.;DANG.TAP_1_b
+Không trả lời;DANG.TAP_1_c
+Nói một câu chuyện khác;DANG.TAP_1_d
+MIễn cười;DANG.TAP_1_chuckle
+Cuộc thi là vớ vẩn;DANG.TAP_1_e
+Hỏi về hỗ trợ mùa thi.;DANG.TAP_1_f
+Phần hỗ trợ cho kỳ thi là một trong các phần của Quy Trình, Nhiệm vụ của chúng là hỗ trợ,\ntuyển dụng cho Quá Trình một cách rất chuyên nghiệp. \nNhưng, đó là một đội quân yếu nhất của nhóm Quá Trình.;DANG.TAP_1_g
+Hỏi về số tiền đóng góp;DANG.TAP_1_h
+Xác nhận sẽ thanh toán kinh phí;DANG.TAP_1_i
+DANG: Tớ muốn có một công việc.;DANG.waiter
+DANG: Xin chào, cậu có biết khu vực dự bị không ?;DANG.TAP_1_20
+DANG: Tớ là một ứng cử viên của Quá Trình.;DANG.TAP_1_21
+DANG: Cậu có biết khu vực dự bị không?;DANG.TAP_1_22
+DANG: Khu vực dự bị!;DANG.TAP_1_23
+DANG: Quá tốt, Chúng ta có thể cùng nhau đến đó. \nCô ấy có thể là hoa tiêu tốt nhất đấy.;DANG.TAP_1_25
+DANG: Không sao đâu, cứ việc triển khai thôi nào.;DANG.TAP_1_26
+DANG: Thôi nào...;DANG.TAP_1_32
+DANG: Tất nhiên, thôi nào, đi thôi.;DANG.TAP_1_34
+DANG: Chắn chắc và rất cảm ơn.;DANG.TAP_1_40
+DANG: Hiện tại, tớ không thể đóng góp.;DANG.TAP_1_41
+DANG: Được thôi, phí nguyên góp là bao nhiêu.;DANG.TAP_1_42
+DANG: Có lẽ $1 là số kinh phí lớn nhất mà tớ từng có. \nChắn chắc tớ sẽ nguyên góp gần đủ $1;DANG.TAP_1_43
+DANG: Đồng ý thanh toán, nhưng \ntớ phải biết con số là bao nhiêu.;DANG.TAP_1_44
+DANG: Tớ chắc chắn là sẽ đậu vào Quá Trình, \nNên tớ sẽ bắt đầu kiếm kinh phí để nguyên góp.;DANG.TAP_1_45
+DANG: Cậu đã biết đường đi rồi chứ ?;DANG.TAP_1_46
+DANG: Quá tuyệt !;DANG.TAP_1_47
+DANG: Cảm ơn, nhưng tớ phải đi tìm nhà trọ ở.;DANG.TAP_1_48
+DANG: Đúng vậy, tớ không phải là \nNgười sống tại trung tâm thành phố.;DANG.TAP_1_49
+DANG: Được thôi, nhưng cậu có thể \ncho tớ vay mượn để được trở thành chủ không ?;DANG.TAP2_13
+DANG: Là công việc gì ?;DANG.TAP2_11
+DANG: Là trở thành grabbike ?;DANG.TAP2_12
+Nico: Tại sao cậu vẫn còn ở đây? \nMau lên, hãy tiến vào khu vực tuyển chọn.;NICO.TAP_1_2
+Nico: MI, nó chưa đủ tuổi để được tham gia vào cuộc tuyển chọn, \nchính vì thế nó có đến đó được hay không cũng không quan trọng. \nNhưng cậu là một ứng viên, tại sao vẫn còn ở đây.;NICO.TAP_1_3
+Nico: Hôm nay chắc chắn MI, nó ngủ dậy muộn, \nkhông thể trở thành kẻ chỉ địa điểm được. \nTại sao cậu không đi theo binh đoàn hướng dẫn của cuộc tuyển chọn.;NICO.TAP_1_4
+Nico: Đã nói rồi, nói mãi. Đến trễ là không thể tham gia. \nNhư thế cậu sẽ bị loại, số phận của cậu sẽ gặp nhiều khó khăn hơn nữa.;NICO.TAP_1_5
+Nico: Đùa à, đậu vào cuộc tuyển chọn là mơ ước của rất nhiều người, \nlà Quá Trình quan trọng nhất của một đời người. Bị loại không \nsao đâu, cậu nói chuyện nghe hài hước quá.;NICO.TAP_1_6
+Nico: Ý của cậu là gì ?;NICO.TAP_1_13
+Nico: Cậu phải hiểu đó là Quá Trình chọn lọc giữa người vô dụng và người tài giỏi, \nngười xứng đáng nhất, có tài phục vụ cho quốc gia, người vô dụng \nsẽ trở về cuộc sống khốn khó. Đã hiểu, nhưng tại sao cậu lại không mau tiến đến khu vực của thử thách.;NICO.TAP_1_8
+Nico: Này cậu kia, tại sao không trả lời ?;NICO.TAP_1_9
+Nico: MI, hôm nay nó đã ngủ dậy muộn mà, \ncậu đã quên lời nico đã nói rồi sao.;NICO.TAP_1_11
+Nico: Cậu nói nghe rất hay, bỏ cuộc \nđồng nghĩa là rớt Quá Trình là điều chắc chắn.;NICO.TAP_1_14
+Nico: Mỗi ngày con bé đến đền rất sớm, nhưng hôm nay, \nMI ngủ muộn nên nó không thể trở thành một người hướng dẫn.;NICO.TAP_1_15
+Nico: Tại sao cậu không đi theo binh đoàn hướng dẫn của cuộc tuyển chọn ?;NICO.TAP_1_16
+Một bia mộ, \nĐược ghi lên ba chữ;biamo_1
+NGUYEN HONG NHUNG \nCái tên này nghe lạ quá nhỉ?;biamo_2
+Một bia mộ của ứng viên đã tự tử;biamo_3
+Nếu bản thân có tài năng, \ntớ sẽ hiểu cậu đang muốn nói gì!;tainang_noi
+Một tượng đá, nó đang phát sáng. Thật lạ.;da_phatsang
+Tớ đang buồn vì đã lạc mất 5 con mèo. \nCậu có thể giúp tớ tìm chúng không?;quest_side_1
+Hãy giúp tớ, tìm 5 con mèo!;quest_detail.name_side2
+Anh ấy sẽ rất vui khi tìm lại được những chú mèo;quest_detail.des_side2
+Hãy đi tìm 5 chú mèo, \nCẩn thận, chúng ra tinh ranh \nliệu bạn có thể biết chứng ở đâu?;quest_detail.obj_side1_2
+SƯ PHỤ: Thí chủ vào đây muốn gì?;buy_template
+Học tiếng mèo kêu;nameSB_quest
+Cho phép người chơi nói chuyện với động vật. \nĐiều này rất hữu ích để bắt đầu/ hoàn thành một số nhiệm vụ \ncũng như khai thác sự hài hước chung của trò chơi.;descSB_quest
+Mở khóa -Tài năng-;text_unlock_talent
+Pet Pal;text_pet_pal
+SƯ PHỤ: Cậu không có sách để nghiên cứu!;text_nobook
+SƯ PHỤ: Cậu phải gia nhập nơi này, nếu muốn học kỹ năng!;text_noskill_templ
+Tại sao cái thùng giấy này, \nkhác với những cái còn lại ?;dang_pluzquest
+SƯ PHỤ: Này cậu kia, đừng chạm vào nó;text_suphuwhatsup
+DANG: NICO đang cần SƯ PHỤ giúp công việc, \nhãy ra bên ngoài nhé!;dang_suphulies1
+SƯ PHỤ: Không còn gì để nói, cậu thích nói dối!;text_suphusaylies
+Một cái thùng giấy rỗng.;text_thungempty
+...Xin lỗi vì đã lấy trộm bí kíp...;text_iamsory
+Cái thùng đựng đầy cá;quest_thung_ca
+Cậu có thể nói?;msgmeo1
+Không,....Nhưng, tớ sẽ hiểu cậu muốn gì!;dangsayvsmeo1
+moew... thế cậu có biết, tớ muốn được ăn con cá không?;msgmeo2
+Đã từ rất lâu, kể từ ngày vào đây \ntớ không thể thưởng thức chúng.;msgmeo3
+Nếu cậu đã vào ngôi chùa này, thì nên từ bỏ thói quen ăn cá.;dangmsgmeo4
+Tớ chỉ muốn ăn nó một lần cuối thôi. \nTớ hứa.;msgmeo5
+Cậu không thể,\c[4]luật là luật \n\c[0]Tớ chẳng thể giúp cậu.;dangmsgmeo5
+Tớ sẽ cho cậu biết một bí mật, nếu cậu đem cá đến đây. \nCậu muốn trao đổi không?;msgmeo6
+Tớ không cần, ông chủ của cậu đang chờ. \nHãy quay về với anh ấy.;dangmsgmeo6
+Tớ đã cho cậu biết một bí mật, \nNào, này! bây giờ, con cá của tớ đâu?;msgmeo7
+Còn cá không sư phụ?;msg_sp_meo1
+Đây, thứ này cậu đang cần. Bây giờ hãy ngoan nào. \nTrở về không?;dangnoivoimeongoa
+Đệ tử chờ ta một chút, hãy để ta kiểm tra nó;msgspmeo2
+Có người đến, sư phụ hãy mau biến hình;msgsspmeo3
+Sư phụ ổn không?;msgsmeo4
+Mau tìm kiếm thứ gì đó để kéo ta lên;msgspmeo5
+Tại sao lại có thêm một con mèo ở đây nhỉ.;tuanaddmoremeo
+Này! cậu đang làm cái gì vậy, \nkhông được ăn cắp chúng;chucala
+Xin lỗi, hiện tại tớ không \ncó tiền để mua chúng;dangnoitien
+Đặt nó xuống nếu không ngươi sẽ bị đánh;cochunoidanh
+Kể từ ngày tớ làm mèo .... tớ rất thèm ăn cá!;meokhonnoilao
+Thật tuyệt khi có, một ông chủ đẹp trai;meongoannoihay
+Muốn đánh nhau à!;meothichdanh
+Cậu vẫn đứng đây để làm gì đấy!;danghoimeoa
+Tớ chỉ muốn đứng cạnh đây thôi.;meonoilaqua
+Cậu hãy trở về với ông chủ. \nAnh ấy đang tìm kiếm cậu;dangnoimeoa
+KHÔNG;meonoilaquaha
+Được rồi, cậu mạnh lắm. Tớ sẽ trở về với chủ, \ntớ không muốn chết cũng không muốn bị đánh. Xin dừng lại.;meonoithuacuoc
+Xin lỗi, tớ không muốn làm tổn thương cậu;dangnoixlvoimeoa
+Có thứ gì đó đang tỏa sáng, trông rất lạ.;dangnoimautim
+Có những sai lầm trong giải pháp câu đố.;caudomot
+Nhặt được một hòm đá phát sáng;daphat_sang1
+Tìm thấy;text_timthay
+Một vật thể trông rất lạ.;dangnhatda
+Đá nguyên tố;nameSB_VANG
+Đá nguyên tố;nameSB_XANH
+Đá nguyên tố;nameSB_TIM
+Đá nguyên tố;nameSB_CAM
+Đá ma thuật;nameSB_DaNguyenTo
+Một hòn đá, vượt xa tầm hiểu biết của con người.;descSB_quest2
+Một hòn đá vô dụng.;descSB_quest1
+Đặt lên một hòn đá ?;dangdatda
+Thèm quá, ước gì tớ có \nmột ít tiền để mua chúng nhỉ;dang_muamon
+Cậu có thể thử, nhưng chỉ một ít thôi nhé!;chuquan1
+Wow, tuyệt vợi. Cảm ơn;dang_tuyetvoi
+Nếu cậu giúp tớ bán hàng \ntớ sẽ tặng cậu công thức chế tạo ra chúng;chuquan2
+Tớ rất thích ăn, nhưng tớ không \nmuốn trở thành đầu bếp;dangchuquan1
+Ai cũng phải nấu ăn dù chỉ một lần;chuquan3
+Thôi nà, tớ chỉ muốn có công thức tạo trò chơi;dangchuquan3
+Vì thế cậu đã tham gia cuộc thi;chuquan4
+Tất nhiên!;dang_tatnhien
+Nhưng cậu vừa nói không có tiền, \ntại sao lại muốn mạo hiểm;chuquan5
+Tớ không biết, tớ chỉ muốn thì sẽ làm thôi;dangchuquan5
+Cậu lạ nhỉ, ...;chuquan6
+Bây giờ cậu có thể giúp tớ bán hàng không?;chuquan7
+Cảm ơn cậu đã giúp, hi vọng sẽ thích chiếc mũ này;chuquansay
+Xin lỗi tớ đang bận.;dang_dangban
+SU PHU có thể dạy cho con \nphép biến hình được không?;dsp1
+Cậu bị làm sao á, thời gian này không còn tiên hoặc phù thủy đâu \nAi lại có thể biến hình được chứ;dsp2
+Mèo kể chuyện đã nói rằng SU PHU có thể biến hình;dsp3
+Cậu có muốn nghe tớ kể chuyện không?;meothichkechuyennoi
+Cậu có thể nói chuyện với mèo, \nthật điên rồ. Cậu có bình thường không?;dsp4
+SU PHU đừng ngạc nhiên, con cũng đã biết vài sự thật về người;dsp5
+Nhưng con sẽ biết giữ bí mật, \nNếu SU PHU dạy cho con phép biến hình;dsp6
+Chính xác là cậu đang có vấn đề, \nta không muốn nói chuyện với ngươi nữa;dsp7
+Tránh xa ta ra ...cái thứ bệnh hoạn;spd1
+Cố gắng thuyết phục lần nữa;spd1_yes
+Không muốn nghe mắng, bỏ đi ra ngoài.;spd1_no
+Cậu đang đùa với ta à, mau đi ra ngoài.;spd_wrongitem
+Chào nico, tớ không bị điên đúng không?;dnico1
+Cậu không đi thi, vẫn còn ở đây \nhỏi câu này đúng thật có vấn đề.;dnico2
+Cậu chủ có hiểu mèo không?;hoituan_1
+Hỏi tuấn về những con mèo;hoituan_0
+Cậu đã tìm đủ 5 con mèo chưa?;hoituan_2
+Tớ có thể nghe tiếng mèo. Cậu là chủ của chúng, \nnên cậu cũng sẽ hiểu chúng. Đúng không?;dangndahoituan1
+Tất nhiên, tớ rất yêu mến những con mèo. \nTớ cũng thích cách chúng kêu moew, ...moew;tuantraloidang1
+Tớ không biết chúng đang ở đâu, \nliệu cậu có biết không?;hoituanvemeo1
+Không thể nào, chính xác là tớ có tổng cộng 5 con mèo.;traloituanvemeo1
+Tớ có quen cậu không?;dang_lamquen_gai
+KHÔNG, nhưng ...cũng chẳng lạ nhỉ. \nNhững người con trai thường hỏi tớ câu này;tuyen_chang
+Có, cậu đã quên tớ rồi à;nhung_saddang
+Chỉ nói đùa thôi;dangnhungkid
+Tại sao tên của cậu lại trùng với bia mộ?;dangtroolnhung
+NHUNG là cái tên phổ biến, ai cũng có thể là NHUNG;nhungtlsad
+Có lẽ,... chắc vậy.;dang_khongchac
+Cuộc thi năm nay tệ quá. Tớ đã thua cuộc.;igmc_lose
+Vật thể này là cái gì?;spx1
+Con đã nhặt được nó ở ngoài sân, \ntrông có thể vô dụng.;spx2
+Đúng vậy đấy nó chỉ là một cục đá vô dụng, \ncon nên để lại đây để ta nguyên cứu;spx3
+Đâu có được, con khó khăn lắm mới tìm thấy nó. \nKhông thể dể dàng đưa cho SU PHU đâu!;spx4
+Muốn đánh nhau à, có đưa không. Hoặc bị đánh.;spxhit
+Được thôi, bây giờ sư phụ có thể dạy \ncho con phép biến hình không?;spxy1
+Ta chưa bao giờ nói dối, ta không biết biến hình. \nCậu chỉ tưởng tượng điều đó thôi.;spxy2
+Đừng nói như vậy, nếu không dạy. \nTớ sẽ phá hủy cục đá này;spxy3
+Tại sao cậu vẫn cố chấp như thế, \nta không thể dạy kỹ năng này cho người ngoại đạo;spxy4
+Nếu cậu tham gia với chúng tôi, \ncậu có thể học những kỹ năng chiến đấu mới. \nCậu có chấp nhận gia nhập không?;spxy5
+Được thôi, nhưng hãy đưa nó cho ta. \nCó nó ta mới sử dụng phép thuật được.;sspxy1
+Tại sao SU PHU không dạy con sử dụng nó;sspxy2
+Đó là đá ma thuật, con phải đủ \nphẩm chất mới có thể sử dụng nó;sspxy3
+Nào bây giờ, trao trả nó cho ta;sspxy4
+Đây, nhận lấy. Sư phụ có thể biển diển \nNó, một lần được không?;dangneedspbiendien
+Tất nhiên, con muốn ta biến hình thành gì?;supxqbienhinh
+Quái vật;text_conquaivat
+Con chó;text_concho
+Mèo;text_conmeo
+Ta không thể biến trở về hình dáng như cũ, \ncon nên có lựa chọn khác.;spbienthanhquaivat
+Woa! tuyệt quá;text_tuyetqua
+Hãy nhìn xem!;spx_look
+Biểu diển một lần thôi, \nTa phải đi ra ngoài hóng đây.;spx_getout
+Chờ đã.,;NHUNG_wait
+Chuyện gì thế?;wiwthe
+Tớ sẽ đi cùng cậu, dù bất cứ nơi đâu;NHUNG_theoDANG
+Cậu cũng muốn đi thi?;danghoinhungdithi
+Không, tớ chỉ muốn ở bên cạnh cậu,....;nhungmuongi
+Không thể, ...;Khongthenao
+Không thể gì nào, nhanh lên. Cuộc thi sắp diễn ra rồi;TUANnoinhanhlen
+Cậu có nhìn thấy cô ấy;danghoinhinthay
+Ai? chỉ có TUYEN đứng cạnh đây thôi. \nCậu đang lẫm bẫm gì đấy!;TUANtranhlambam
+Có lẽ tớ đang tưởng tượng, nhưng tớ không bị điên;DANG_noikhongdien
+Làm thế nào để mở khóa tầng hầm nhỉ?;danghoitangham
+Đọc thần chú:Vừng ơi, mở ra.;tangham_pass1
+Hô to:Tượng ơi, bay lên.;tangham_pass2
+Có lẽ, phải tìm cách khác;tangham_pass3
+TUONG: Ta không thể bay.;buctuong2
+TUONG: sai mật khẩu, mau đi ra ngoài.;buctuong1
+Hiệu ứng;text_hieuung
+Giá bán;text_giaban
+Giá mua;text_giamua
+Không thể bán;text_khongthegiaban
+Thực phẩm mặn;thucpham_man
+Loại thực phẩm giàu chất dinh dưỡng;mota_thucpham
+Bánh ngọt ;thucpham_banhngot
+Tăng hiệu ứng trong chiến đấu.;mota_banhngot
+Nước giải khát;nuocuong
+Loại nước tăng lực, có thể làm \ntăng khả năng chiến đấu.;mota_nuocuong
+Vật phẩm nhiệm vụ;text_chiakhoa
+Sử dụng chúng để giải câu đố.Những \nthứ quan trọng không thể đem tặng.;mota_chiakhoa
+Vật phẩm phổ biến;text_dophobien
+Những thứ này ai cũng có, Vì chúng \nrất cần thiết.;mota_dophobien
+Đồ sưu tầm;text_doquyhiem
+Chúng có giá trị rất cao, nhưng \nkhông thể bán. Chỉ là đồ lưu niệm;mota_doquyhiem
+Cứu thương, nguyên cứu;text_MEDICAMENT
+Những thứ cần phải học mới có thể \nbiết cách sử dụng.;mota_MEDICAMENT
+Nguyên liệu;text_MATERIAL
+Vật liệu để chế tạo bánh;mota_MATERIAL
+Lượt;turns
+Phục hồi máu;recover_hp
+Phục hồi ma thuật;recover_mp
+Thêm hiệu ứng;addbuff
+Thêm khả năng kháng;adddebuff
+Này cậu, tớ đã tham gia cuộc thi và hoàn thành nó. \nNhững thứ cần thiết này để giải đố, chúng đã \c[17]vô dụng.;shopluzz
+Nếu cậu thích chúng, tớ có thể tặng cho cậu.;shoppulzztang
+Thành phố đang trong giai đoạn sửa chữa \ncẩn thận khi di chuyển.;laocongtaolao
+Thành phố mới xây dựng chưa lâu \nđã hư hỏng rồi nặng. Tiếc thật, ...;laocongtaolao2
+Tớ đâu có gọi món này,;client_callfail
+Hãy đem món ăn cho tớ nào  \i[\v[4]];client_questfood
+Bạn đã mở khóa một kỹ năng nghề: Phục vụ nam!;text_unlocknghe1
+Rất cảm ơn cậu đã giúp, \ntớ sẽ tặng cậu món này.;chuquantang
+Này cậu kìa, không được đem thức ăn vào đây;nico_camthucan
+Cậu đi đâu đấy, khách hàng đang chờ kìa;chuquanlamang
+Kháng chiến:;base.khangchien
+Điểm yếu:;base.diemyeu
+Tổn thương;atk_EL
+Khả năng;EL_rate;
+Tỉ lệ trúng;EL_hit
+Vật lý;El_vatly
+Ma thuật;El_mathuat
+Thanh kiếm YEP;nameSword
+Ống Tuýp inox;nameTuyp
+Cây gậy;nameGay
+Súng Shotgun;nameShotgun
+Súng bắn tỉa;nameTruong
+Súng lục;nameLuc
+Súng;nameSung
+Vũ khí cận chiến;nameCan_chien
+Quyền trượng ma thuật;nameQuyen_truong
+LỚP;text_class
+Khiên;types.eqShield
+Nón;types.eqHat
+Quần;types.eqTrouser
+Giày;types.eqBoot
+Học giả;skill_Scholar
+Ảo hóa;skNameAoHoa
+Tạo ra một lớp chắn ảo ảnh, khiến đối phương nhầm lẩn. Vì thế kẻ thù chỉ \ngây ra 15% tổn thương. Đến lúc thích hợp 70% cơ hội phản công lại.;skDescAoHoa
+Kiên trì;skNameKienTri
+Một học giả phải kiên trì. Nếu thất bại lúc đầu, hãy thử lại.Nếu thất bại nữa, \nhãy đưa ra một cách tiếp cận mới và thử lại. Chỉ với sự kiên trì, tôi có thể đánh bại cả thế giới. Điều này đẩy lùi kẻ thù một khoảng cách.;skDescKienTri
+Vô hình;skNameVoHinh
+Thu hút sự chú ý, kẻ thù sẽ tấn công bạn.;skDescVoHinh
+skName_hoisinh
+skDesc_hoisinh
+skill_Lover
+skName_bantim
+skDesc_bantim
+skill_Soldier
+Thời gian hồi tuyệt chiêu;text_cooldownSteps
+Tất nhiên rồi, di chuyển bởi WASD. \nẤn Space để tương tác.;dangnoibiet
+Điều đó chỉ hoạt động khi có bàn phím. \nCó thể thay đổi không?;nhunghoibiet
+Tớ không chắc, nhưng nếu có tùy chọn thì  \nsẽ thay đổi được phím nhấn.;dangnoituy
+Là một sự kiện quan trọng nhất của con người. tớ cảm nhận điều đó là vớ vẩn. \ntớ đã xem xét, tham gia cuộc tuyển chọn như một cuộc dạo chơi. Không quan trọng là đậu. \nchỉ cần được đến trung tâm được cảm nhận một lần cũng đủ vui rồi.;DANG.TAP_1_14a
+Tìm hiểu cái chết của ứng viên;help_C1
+Tìm 5 con mèo;help_C2
+Nhiệm vụ chính tuyến;help_C3
+Con cá của tớ đâu ?;help_C4
+Khám phá căn hầm bí mật tại ngôi chùa;help_C5
+Đến hiện trường vụ tự sát để xem xét bằng chứng;help_c1a
+Hãy tìm cách nói chuyện với chúng;help_c2a
+Có 4 con mèo ở ngôi chùa này;help_c2b
+Một con quái vật biến hình thành mèo;help_c2c
+Hãy tìm cá cho mèo thích kể chuyện;help_c2d
+Hãy đánh bại mèo hư hỏng;help_c2e
+Hãy biến hình thành mèo để nói chuyện với mèo khôn;help_c2f
+Hãy nói chuyện với tất cả mọi người ở xung quanh ngôi chùa;help_c3a
+Giúp TUAN tìm những chú mèo;help_c3b
+Thuyết phục TUYEN tham gia nhóm;help_c3c
+Một người bán hàng có con cá;help_c4a
+Tìm cách mở cánh cửa bí mật;help_c5a
+Lời gợi ý;text_goiy
